@@ -1,4 +1,5 @@
-#7DaysOfCode | [@Alura](https://7daysofcode.io/)
+# 7DaysOfCode | [@Alura](https://7daysofcode.io/)
+
 
 ## Día 1 | ✅ Finalizado
 En el primer día aprendimos a trabajar con el comando `if` y operaciones booleanas en JavaScript. Este fue un paso importante para comprender cómo controlar el flujo de nuestro código según ciertas condiciones.
