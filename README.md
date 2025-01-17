@@ -1,12 +1,12 @@
 # 7DaysOfCode | [@Alura](https://7daysofcode.io/)
 
 
-## Día 1 | ✅ Finalizado
+## Día 1 | ✅ [Finalizado](https://github.com/maritza1818/-7DaysOfCode/blob/main/booleanday1.js)
 En el primer día aprendimos a trabajar con el comando `if` y operaciones booleanas en JavaScript. Este fue un paso importante para comprender cómo controlar el flujo de nuestro código según ciertas condiciones.
 
 Puedes ver el archivo del desafío del día 1 [aquí](https://github.com/maritza1818/-7DaysOfCode/blob/main/booleanday1.js).
 
-## Día 2 | ✅ Finalizado
+## Día 2 | 
 En el segundo día del desafío aprendimos cómo capturar entradas del usuario y almacenarlas en variables para su uso posterior.
 
 ## Día 3
